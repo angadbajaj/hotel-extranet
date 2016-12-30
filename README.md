@@ -1,1 +1,1 @@
-# hotel-extranet
+# extranet
